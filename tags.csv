@@ -1,0 +1,30 @@
+Stories,Tags
+Search and view property account information. Have global search ability to search with any property information.,Search
+View related properties for the same account.,View
+View related notes within each property account,Account
+System should relate new liens that are purchased against previously owned liens. Should be able to see all related liens together,Liens
+"View and generate reports for payment history and posted payment details including who paid off, the mode of payments (ACH, wire, check), and bank account payment was received in",Reports
+Should be able to add/delete/edit bank account information and wiring/ACH/lockbox instructions.  All changes will need final approval from Accounting Manager,Modify
+Should be able to receive approved funding requests from Underwriting. Should be able to add notes and upload confirmation upon completion of processed payments,Funding Requests
+Should be able to cut company checks directly from the system for subsequent purchases and lien admin expenses,Admin
+Should be able to create a master vendor list to apply to the check cutting process.  Will need to be able to add/delete/edit this list as needed.  New vendors will need final approval from Accounting Manager before being added to the master list.,Vendor List
+Should be able to void checks within the system for direct application to the task and account that initiated the original check being cut,Checks
+Should be able to upload/post returned deposits/funding payments within the system for direct application to the task and account that initiated the original payment request,Upload
+"Generate month end reports. Roll forward for principal, interest, and fees",Reports
+"Generate lien-by-lien detail reports.  This should include lien’s principal, interest, fee, and total redemptive value balance",Liens Reports
+Generate lien-by-lien supplemental detail reports.  This should include additional lien detail and balances to support borrowing base inputs and provided to our financing facilities,Detail Reports
+"Generate ad hoc reports by GL account (code), entity (pool), state, county, acquisition date, etc",adhoc Reports
+All tasks available to Accounting User described above,Accounting User
+Should be able to open/close posting periods to prevent adjustments and payment postings to lien accounts from occurring outside the current accounting period,Posting
+Should be able to assign bank account by entity for use in the setup of auto draft payments and lockbox payment posting by Servicing,Bank Account
+Should be able to assign EIN by entity and upload related W-9,EIN
+Generate borrowing base and supporting documents as of a specified cut-off date.  Accounting Manager will need to create automated borrowing base that is capable of applying and calculating eligibility/ineligibility criteria per financing agreement with each facility,Cutt-off Date
+Search and view property account information. Have global search ability to search with any property identifier ,Global Search
+"Capture notes against each of the properties with selection for note types (Inbound Notes, Outbound Notes, ect)",Notes
+Create contacts for each person that calls for a specific account,Contacts
+"Select reason for calls (Status inquiry, payment plans, payoffs, payment history, ect)",Calls
+Maintain attorney contact info card associated with each attorney  ,Attorney
+"Lien acquisition date, Jurisdiction, Parcel Number ,Maturity date, ,Lien expiration date,Number of active liens per parcel, Tax Year of each lien,Full property address,Owner name,Owner address,Certificate balance ,Parcel balance ,Payments received,Assessed value ,Market value ,Property use description,Current pool and pool history,Certificate number,Legal description, Interest and penalty rates,Effective rates ,Default rate timing,Default rate ",Data
+Ability to edit all data points in bulk,Edit
+"Asset Management Supervisor can view, add, edit and delete canned FC, BK, REO and 3rd party FC milestones and property events that asset managers utilize through a dropdown",Management
+Ability to add milestones and property events to an individual lien or parcel record in the system,Milestones
